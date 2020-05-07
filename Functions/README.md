@@ -13,7 +13,10 @@ If a function includes these keywords or operations "for, switch, goto, recursio
 <li>Check for file functions_0.4</li>
 <br/>
 <h2> Function Overloading: </h2>
-In CPP, Polymorphism is very useful concept. Function Overloading is run time polymorphism. It means more than one function sharing same names while performing distinct operations. <br>
+In CPP, Polymorphism is very useful concept. Function Overloading is run time polymorphism. It means more than one function sharing same names while performing distinct operations. </br>
 As exapmle, Area operations is same as in Circle, Rectangle, Square and Parabola with different formulas. Hence they all are using same name for performing different operations. 
+</br>
+For function overloading there are some rules: </br>
+    <ul><li>Exact match (Arguments difference) </li><li>Type Promotion</li><li>Type Conversion</li><li></ul></br>
 <li>Check for file functions_0.5</li>
 
