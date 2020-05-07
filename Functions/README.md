@@ -17,6 +17,6 @@ In CPP, Polymorphism is very useful concept. Function Overloading is run time po
 As exapmle, Area operations is same as in Circle, Rectangle, Square and Parabola with different formulas. Hence they all are using same name for performing different operations. 
 </br>
 For function overloading there are some rules: </br>
-    <ul><li>Exact match (Arguments difference) </li><li>Type Promotion</li><li>Type Conversion</li><li></ul></br>
+    <ul><li>Exact match (Arguments difference) </li><li>Type Promotion</li><li>Type Conversion</li></ul></br>
 <li>Check for file functions_0.5</li>
 
