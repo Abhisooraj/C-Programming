@@ -8,7 +8,7 @@ formal argumenets can be three types:
         when formal arguments are reference variable. 
 
 <br>
-# Inline Function:
+	<h2> Inline Function: </h2>
 <br>
 To eliminates, the cost of small function, CPP suggests us to use Inline function. When a function declared as an inline function, it will expand whenever it'll be invoked. At the time of the function call compiler replaces the function call with its code.<br>
 The Keyword for inline functions is "inline". Inline is a request hence function can be inline or not. It truly depends on the compiler.<br>
