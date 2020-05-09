@@ -59,4 +59,4 @@ CPP is object-oriented programming language developed by <b>Bjarne Stroustrup </
 </li>   
   
   # Certificate:
-  ![cetificate SkillzCafe] (https://github.com/Abhisooraj/CPP-Programming/blob/master/Certificates/CPP%20By%20SkillzCafe-1.png)
+  ![Certificate] (https://github.com/Abhisooraj/CPP-Programming/blob/master/Certificates/Certificate.png)
