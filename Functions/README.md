@@ -1,4 +1,4 @@
-# Functions in CPP:
+# Functions in CPP 🧑‍💻:
 formal argumenets can be three types:
   1. Call by Value _0.1: <br>
       when formal arguments are ordinary variable. <br>
@@ -10,7 +10,6 @@ formal argumenets can be three types:
 To eliminates, the cost of small function, CPP suggests us to use Inline function. When a function declared as an inline function, it will expand whenever it'll be invoked. At the time of the function call compiler replaces the function call with its code.<br>
 The Keyword for inline functions is "inline". Inline is a request hence function can be inline or not. It truly depends on the compiler.<br>
 If a function includes these keywords or operations "for, switch, goto, recursion, static variables" then this function can not be created inline by the compiler. <br> 
-<li>Check for file functions_0.4</li>
 <br/>
 <h2> Function Overloading: </h2>
 In CPP, Polymorphism is very useful concept. Function Overloading is run time polymorphism. It means more than one function sharing same names while performing distinct operations. </br>
@@ -20,3 +19,9 @@ For function overloading there are some rules: </br>
     <ul><li>Exact match (Arguments difference) </li><li>Type Promotion</li><li>Type Conversion</li></ul></br>
 <li>Check for file functions_0.5</li>
 
+## File Details 📂:
+<li> functions_0.1 <b>"Call by value"</b></li>
+<li> functions_0.2 <b>"Call by Address"</b></li>
+<li> functions_0.3 <b>"Call by Reference"</b></li>
+<li> functions_0.4 <b>"Inline Functions"</b></li>
+<li> functions_0.5 <b>"Function Overloading"</b></li>
