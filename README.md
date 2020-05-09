@@ -33,25 +33,25 @@ CPP is object-oriented programming language developed by <b>Bjarne Stroustrup </
   </ul>
 </li>
 <li>Data Types: 
-    <ol>Fundamental Data Types:
+    <ol> <br/>Fundamental Data Types:
         <ul>
             <li>bool(for Boolean Values)</li>   <li>int(for Integers)</li>  <li>char(for characters)</li>   <li>float(for floating point                numbers)</li>  <li>double(for double precision floating point numbers)</li>    <li>void(for empty set of values and non-                returning functions)</li>
         </ul>
     </ol>
     
-    <ol> Data Types Modifiers:
-        <ul>
-                <li>signed</li> <li>unsigned</li>   <li>long</li>   <li>short</li>
+   <ol><br/> Data Types Modifiers:
+       <ul>
+               <li>signed</li> <li>unsigned</li>   <li>long</li>   <li>short</li>
         </ul>
     </ol>
     
-    <ol> Derived Data Types:
+   <ol><br/> Derived Data Types:
         <ul>
                 <li>Arrays</li> <li>Functions</li>   <li>Pointers</li>   <li>References</li>    <li>Constants</li>
         </ul>
     </ol>
     
-    <ol> User Defined Derived Data Types:
+   <ol><br/> User Defined Derived Data Types:
         <ul>
                 <li>Class</li> <li>Structure</li>   <li>Union</li>   <li>Enumeration</li>   
         </ul>
@@ -59,4 +59,4 @@ CPP is object-oriented programming language developed by <b>Bjarne Stroustrup </
 </li>   
   
   # Certificate:
-  ![CPP By SkillzCafe]()
+  ![cetificate SkillzCafe] (https://github.com/Abhisooraj/CPP-Programming/blob/master/Certificates/CPP%20By%20SkillzCafe-1.png)
