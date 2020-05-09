@@ -1,4 +1,12 @@
 # Functions in CPP 🧑‍💻:
+
+## File Details 📂:
+<li> functions_0.1 <b>"Call by value"</b></li>
+<li> functions_0.2 <b>"Call by Address"</b></li>
+<li> functions_0.3 <b>"Call by Reference"</b></li>
+<li> functions_0.4 <b>"Inline Functions"</b></li>
+<li> functions_0.5 <b>"Function Overloading"</b></li>
+
 formal argumenets can be three types:
   1. Call by Value _0.1: <br>
       when formal arguments are ordinary variable. <br>
@@ -19,9 +27,3 @@ For function overloading there are some rules: </br>
     <ul><li>Exact match (Arguments difference) </li><li>Type Promotion</li><li>Type Conversion</li></ul></br>
 <li>Check for file functions_0.5</li>
 
-## File Details 📂:
-<li> functions_0.1 <b>"Call by value"</b></li>
-<li> functions_0.2 <b>"Call by Address"</b></li>
-<li> functions_0.3 <b>"Call by Reference"</b></li>
-<li> functions_0.4 <b>"Inline Functions"</b></li>
-<li> functions_0.5 <b>"Function Overloading"</b></li>
