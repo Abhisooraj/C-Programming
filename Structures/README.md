@@ -12,8 +12,8 @@ strct tag_name
 </br>variable_name_04;
 <br/>}structure variable;
 <br/>
+<br/>Where either tag_name or structure variable maybe omitted, but not both. Once a Structure variable is defined, its members can be accessed by using <b>.(dot operator)</b>. 
 
-Where either tag_name or structure variable maybe omitted, but not both. Once a Structure variable is defined, its members can be accessed by using <b>.(dot operator)</b>. 
 <h3>Example of Structure:</h3>
 strct Address
 </br>{
