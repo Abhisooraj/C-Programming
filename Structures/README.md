@@ -25,4 +25,5 @@ strct address
 
 ## File Details 📂:
 <li> Structures_0.1 <b>"Examples of Structures"</b> Declaration, Definition with various use cases</li>
-<li> Structures_0.2 <b>"Working of Structures with function"</b> input values in a Structure by function and passing value to function</li>
+<li> Structures_0.2 <b>"Working of Structures with function"</b> input values in a Structure by function and passing values to a function</li>
+<li> Structures_0.3 <b>"Concept of Encapsulation and access modifiers"</b> Definition and Declaration of member function and variable using access modifiers. Acheive Encapsulation in structure</li>
