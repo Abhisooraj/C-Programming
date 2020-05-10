@@ -24,4 +24,5 @@ strct address
 <br/>};
 
 ## File Details 📂:
-<li> Structures_0.1 <b>"Some example of Structures"</b> Declaration, Definition with various cases.</li>
+<li> Structures_0.1 <b>"Examples of Structures"</b> Declaration, Definition with various use cases</li>
+<li> Structures_0.2 <b>"Working of Structures with function"</b> input values in a Structure by function and passing value to function</li>
