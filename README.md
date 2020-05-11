@@ -24,7 +24,7 @@ CPP is object-oriented programming language developed by <b>Bjarne Stroustrup </
   </ul>
 </li>
 <li>Tokens
-    <ul>
+    <ul type = "square">
       <li>Keywords</li>
       <li>Identifiers</li>
       <li>Literals Symbols</li>
@@ -49,7 +49,7 @@ CPP is object-oriented programming language developed by <b>Bjarne Stroustrup </
         </ul>
     </ol>
     <ol><br/> User Defined Derived Data Types:
-        <ul>
+        <ul type = "square">
                 <li>Class</li> <li>Structure</li>   <li>Union</li>   <li>Enumeration</li>   
         </ul>
     </ol>
