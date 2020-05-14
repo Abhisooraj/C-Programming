@@ -1,7 +1,6 @@
 # Constructor Theory in CPP 🌈🪞:
 The constructor uses the identical name as the class and it is automatically called when the object of the class is constructed. It is a 
 member function of the class but it cannot produce a return type. 
-
 <br/> In a CPP program, if the constructor is not created then the compiler will create a default constructor for the program. Which 
 expects no parameters and has an empty body. 
 
