@@ -13,4 +13,5 @@ A class will get memory when its object is created.
 Usefull concepts in class:
 <li>Static local variable: By default value is Zero and it exists throughout the program. </li>
 <li>Instance member variable: A normal variable which exists in a class </li>
-<li>Static member variable: A static variable which exist in a class </li>
+<li>Static member variable or class variable: A static variable which exist in a class </br> always declared in a class and it should be defined outside the class</li>
+<li> </li>
