@@ -14,6 +14,10 @@ different list of arguments then it is called constructor overloading.
 
 <h3>File Details:</h3>
 <ol type = "I">  
-    <li> Constructor_0.1 : Constructor and its types introduction and </li>
-    <li> Destructor : Destructor introduction </b> </li>
+    <li> Constructor_0.1.CPP : Constructor and its types introduction and </li>
+    <li> Constructor_0.2.CPP : Destructor introduction </b> </li>
 </ol>
+
+<h4>Destructor</h4>
+Destructor is an instance member function of the class. Destructor can not be static. <b> "~" symbol</b> is used create Destructor.
+<br/> No parameter can be passed in Destructor. Destructor is automatically called when object is going to destroy. Destructor is useful for releasing all the resources.
